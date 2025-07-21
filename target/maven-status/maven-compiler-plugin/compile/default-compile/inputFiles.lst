@@ -1,0 +1,12 @@
+C:\Users\IrakliyMarsagishvili\OneDrive - talan.com\Desktop\Microservices bootcamp\Bootcamp Projects\hohohoho\src\main\java\com\talant\bootcamp\booksservice\BooksserviceApplication.java
+C:\Users\IrakliyMarsagishvili\OneDrive - talan.com\Desktop\Microservices bootcamp\Bootcamp Projects\hohohoho\src\main\java\com\talant\bootcamp\booksservice\config\DataLoader.java
+C:\Users\IrakliyMarsagishvili\OneDrive - talan.com\Desktop\Microservices bootcamp\Bootcamp Projects\hohohoho\src\main\java\com\talant\bootcamp\booksservice\controller\BookController.java
+C:\Users\IrakliyMarsagishvili\OneDrive - talan.com\Desktop\Microservices bootcamp\Bootcamp Projects\hohohoho\src\main\java\com\talant\bootcamp\booksservice\dto\BookRequest.java
+C:\Users\IrakliyMarsagishvili\OneDrive - talan.com\Desktop\Microservices bootcamp\Bootcamp Projects\hohohoho\src\main\java\com\talant\bootcamp\booksservice\dto\BookResponse.java
+C:\Users\IrakliyMarsagishvili\OneDrive - talan.com\Desktop\Microservices bootcamp\Bootcamp Projects\hohohoho\src\main\java\com\talant\bootcamp\booksservice\exception\BookNotFoundException.java
+C:\Users\IrakliyMarsagishvili\OneDrive - talan.com\Desktop\Microservices bootcamp\Bootcamp Projects\hohohoho\src\main\java\com\talant\bootcamp\booksservice\exception\DuplicateIsbnException.java
+C:\Users\IrakliyMarsagishvili\OneDrive - talan.com\Desktop\Microservices bootcamp\Bootcamp Projects\hohohoho\src\main\java\com\talant\bootcamp\booksservice\exception\GlobalExceptionHandler.java
+C:\Users\IrakliyMarsagishvili\OneDrive - talan.com\Desktop\Microservices bootcamp\Bootcamp Projects\hohohoho\src\main\java\com\talant\bootcamp\booksservice\model\Book.java
+C:\Users\IrakliyMarsagishvili\OneDrive - talan.com\Desktop\Microservices bootcamp\Bootcamp Projects\hohohoho\src\main\java\com\talant\bootcamp\booksservice\model\BookCategory.java
+C:\Users\IrakliyMarsagishvili\OneDrive - talan.com\Desktop\Microservices bootcamp\Bootcamp Projects\hohohoho\src\main\java\com\talant\bootcamp\booksservice\repository\BookRepository.java
+C:\Users\IrakliyMarsagishvili\OneDrive - talan.com\Desktop\Microservices bootcamp\Bootcamp Projects\hohohoho\src\main\java\com\talant\bootcamp\booksservice\service\BookService.java
