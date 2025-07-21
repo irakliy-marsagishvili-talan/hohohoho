@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Build and Test') {
             steps {
-                dir('Sessions/Sesion05_BookService') {
+                dir('') {
                     sh 'chmod +x mvnw'
                     sh './mvnw clean install'
                 }
@@ -14,7 +14,7 @@ pipeline {
         }
         stage('SonarQube Analysis') {
             steps {
-                dir('Sessions/Sesion05_BookService') {
+                dir('') {
 					withCredentials([string(credentialsId: 'sonar_token', variable: 'SONAR_TOKEN')]) {
 						withSonarQubeEnv("SonarQube") {
 							sh './mvnw -e sonar:sonar -Dsonar.projectKey=bookservice -Dsonar.login=${SONAR_TOKEN}'		
@@ -26,7 +26,7 @@ pipeline {
     }
     post {
         always {
-            dir('Sessions/Sesion05_BookService') {
+            dir('') {
                 junit '**/target/surefire-reports/*.xml'
             }
         }
