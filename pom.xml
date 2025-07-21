@@ -8,7 +8,7 @@
 		<version>3.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	    <groupId>com.talant.bootcamp</groupId>
+	    <groupId>com.talant.bootcamp.booksservice</groupId>
     <artifactId>hohohoservice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>hohohoho</name>
